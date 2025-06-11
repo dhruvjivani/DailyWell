@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyWell</string>
+    <string name="home_title">DailyWell - Your Daily Habits Tracker</string>
+    <string name="btn_habits">View Habits Log</string>
+    <string name="btn_feedback">Give Feedback</string>
+
+    <string name="habits_title">Habits Log</string>
+
+    <string name="feedback_title">Feedback</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_feedback">Your feedback</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="error_name">Name cannot be empty</string>
+    <string name="error_email">Enter a valid email</string>
+    <string name="error_feedback">Feedback cannot be empty</string>
+    <string name="success_message">Feedback submitted successfully</string>
+    <string name="btn_back">Back</string>
+    <string name="habit1">• Drink Water</string>
+    <string name="habit2">• Exercise</string>
+    <string name="habit3">• Meditate</string>
+    <string name="app_logo_desc">DailyWell logo</string>
+    <string name="app_icon">App Icon</string>
+    <string name="dailywell_your_daily_habits_tracker">DailyWell - Your Daily Habits Tracker</string>
+    <string name="feedback">Feedback</string>
+
+</resources>
