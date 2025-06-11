@@ -64,8 +64,9 @@ DailyWell/
 ## ✅ How to Run
 
 1. Clone the repository
-2. Open in **Android Studio**
-3. Sync Gradle and Run the app on an emulator or device
+2. git clone https://github.com/dhruvjivani/DailyWell
+3. Open in **Android Studio**
+4. Sync Gradle and Run the app on an emulator or device
 
 ---
 
